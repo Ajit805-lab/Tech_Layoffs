@@ -135,6 +135,12 @@
     Total Money Raised: $8 Million  
     
     Average Money Raised: $76.18K
+
+    As per location 'Bengaluru' is the highest compare to others location.
+
+    The year 2020 has the highest laid off from 2020 to 2024
+
+    The 'Education' industry has highest laid offs from 2020-2025 
     
  ## 📬 Contact / Credits
 Author: Ajit Kumar Samal
