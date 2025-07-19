@@ -128,7 +128,7 @@
 ## 💡 Insights Uncovered
     Total Layoffs: 27,000 employees laid off across multiple companies.
     
-    Average Layoffs per Entry**: 253.06  
+    Average Layoffs per Entry: 253.06  
     
     Layoff Rate: 10.10% (Laid off compared to total pre-layoff workforce)
     
