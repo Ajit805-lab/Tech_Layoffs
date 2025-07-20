@@ -12,7 +12,7 @@
 
 ## 📷 Dataset Overview
 
-<img width="1152" height="643" alt="Screenshot 2025-07-19 182133" src="https://github.com/user-attachments/assets/da69a274-897a-4c0f-80f4-471c4e553322" />
+<img width="1165" height="651" alt="Screenshot 2025-07-20 090509" src="https://github.com/user-attachments/assets/1b42f445-8f3f-4ddd-abd4-714b8c580dd1" />
 
 ## 🎯 Objectives
     Analyze the total and average layoffs across industries, locations, and company stages.
